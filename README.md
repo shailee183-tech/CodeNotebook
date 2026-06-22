@@ -18,9 +18,14 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/shailee183-tech/CodeNotebook/tree/master/0151-reverse-words-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/shailee183-tech/CodeNotebook/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/shailee183-tech/CodeNotebook/tree/master/1189-maximum-number-of-balloons) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/shailee183-tech/CodeNotebook/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
