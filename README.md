@@ -33,4 +33,9 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shailee183-tech/CodeNotebook/tree/master/0238-product-of-array-except-self) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/shailee183-tech/CodeNotebook/tree/master/3699-number-of-zigzag-arrays-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/shailee183-tech/CodeNotebook/tree/master/3699-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->
