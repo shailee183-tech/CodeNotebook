@@ -8,6 +8,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shailee183-tech/CodeNotebook/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/shailee183-tech/CodeNotebook/tree/master/0605-can-place-flowers) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shailee183-tech/CodeNotebook/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -16,6 +17,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/shailee183-tech/CodeNotebook/tree/master/1189-maximum-number-of-balloons) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shailee183-tech/CodeNotebook/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -37,6 +39,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shailee183-tech/CodeNotebook/tree/master/0238-product-of-array-except-self) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shailee183-tech/CodeNotebook/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shailee183-tech/CodeNotebook/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,4 +49,16 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shailee183-tech/CodeNotebook/tree/master/0022-generate-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shailee183-tech/CodeNotebook/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shailee183-tech/CodeNotebook/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shailee183-tech/CodeNotebook/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
