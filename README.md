@@ -67,4 +67,8 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shailee183-tech/CodeNotebook/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/shailee183-tech/CodeNotebook/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
