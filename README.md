@@ -8,6 +8,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shailee183-tech/CodeNotebook/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/shailee183-tech/CodeNotebook/tree/master/0605-can-place-flowers) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shailee183-tech/CodeNotebook/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shailee183-tech/CodeNotebook/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Greedy
 |  |
@@ -17,6 +18,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/shailee183-tech/CodeNotebook/tree/master/1189-maximum-number-of-balloons) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shailee183-tech/CodeNotebook/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shailee183-tech/CodeNotebook/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
@@ -61,4 +63,8 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 |  |
 | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shailee183-tech/CodeNotebook/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shailee183-tech/CodeNotebook/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
