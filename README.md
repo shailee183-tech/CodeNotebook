@@ -22,6 +22,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/shailee183-tech/CodeNotebook/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shailee183-tech/CodeNotebook/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shailee183-tech/CodeNotebook/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shailee183-tech/CodeNotebook/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -30,6 +31,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 | [0022-generate-parentheses](https://github.com/shailee183-tech/CodeNotebook/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/shailee183-tech/CodeNotebook/tree/master/0151-reverse-words-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/shailee183-tech/CodeNotebook/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shailee183-tech/CodeNotebook/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/shailee183-tech/CodeNotebook/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shailee183-tech/CodeNotebook/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Counting
@@ -81,4 +83,8 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shailee183-tech/CodeNotebook/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shailee183-tech/CodeNotebook/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
