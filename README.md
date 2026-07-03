@@ -14,6 +14,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shailee183-tech/CodeNotebook/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shailee183-tech/CodeNotebook/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shailee183-tech/CodeNotebook/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/shailee183-tech/CodeNotebook/tree/master/3620-network-recovery-pathways) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shailee183-tech/CodeNotebook/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Greedy
 |  |
@@ -56,6 +57,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shailee183-tech/CodeNotebook/tree/master/0022-generate-parentheses) |
+| [3620-network-recovery-pathways](https://github.com/shailee183-tech/CodeNotebook/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shailee183-tech/CodeNotebook/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Backtracking
 |  |
@@ -93,6 +95,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shailee183-tech/CodeNotebook/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/shailee183-tech/CodeNotebook/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -107,6 +110,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shailee183-tech/CodeNotebook/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shailee183-tech/CodeNotebook/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/shailee183-tech/CodeNotebook/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -116,8 +120,14 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shailee183-tech/CodeNotebook/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/shailee183-tech/CodeNotebook/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shailee183-tech/CodeNotebook/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/shailee183-tech/CodeNotebook/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/shailee183-tech/CodeNotebook/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
