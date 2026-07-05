@@ -25,6 +25,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/shailee183-tech/CodeNotebook/tree/master/0202-happy-number) |
 | [1189-maximum-number-of-balloons](https://github.com/shailee183-tech/CodeNotebook/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shailee183-tech/CodeNotebook/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shailee183-tech/CodeNotebook/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -46,6 +47,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/shailee183-tech/CodeNotebook/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/shailee183-tech/CodeNotebook/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/shailee183-tech/CodeNotebook/tree/master/0283-move-zeroes) |
 | [1768-merge-strings-alternately](https://github.com/shailee183-tech/CodeNotebook/tree/master/1768-merge-strings-alternately) |
 ## Prefix Sum
@@ -138,4 +140,5 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 | ------- |
 | [0007-reverse-integer](https://github.com/shailee183-tech/CodeNotebook/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shailee183-tech/CodeNotebook/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/shailee183-tech/CodeNotebook/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
