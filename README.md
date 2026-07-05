@@ -133,4 +133,8 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/shailee183-tech/CodeNotebook/tree/master/3620-network-recovery-pathways) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/shailee183-tech/CodeNotebook/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
