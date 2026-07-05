@@ -137,4 +137,5 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/shailee183-tech/CodeNotebook/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/shailee183-tech/CodeNotebook/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
