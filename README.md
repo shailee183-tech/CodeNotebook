@@ -6,6 +6,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/shailee183-tech/CodeNotebook/tree/master/0039-combination-sum) |
 | [0238-product-of-array-except-self](https://github.com/shailee183-tech/CodeNotebook/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/shailee183-tech/CodeNotebook/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/shailee183-tech/CodeNotebook/tree/master/0605-can-place-flowers) |
@@ -68,6 +69,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shailee183-tech/CodeNotebook/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/shailee183-tech/CodeNotebook/tree/master/0039-combination-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
