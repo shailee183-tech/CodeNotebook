@@ -38,6 +38,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 | [0022-generate-parentheses](https://github.com/shailee183-tech/CodeNotebook/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/shailee183-tech/CodeNotebook/tree/master/0151-reverse-words-in-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shailee183-tech/CodeNotebook/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1143-longest-common-subsequence](https://github.com/shailee183-tech/CodeNotebook/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/shailee183-tech/CodeNotebook/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shailee183-tech/CodeNotebook/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/shailee183-tech/CodeNotebook/tree/master/1768-merge-strings-alternately) |
@@ -65,6 +66,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shailee183-tech/CodeNotebook/tree/master/0022-generate-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/shailee183-tech/CodeNotebook/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/shailee183-tech/CodeNotebook/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/shailee183-tech/CodeNotebook/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shailee183-tech/CodeNotebook/tree/master/3699-number-of-zigzag-arrays-i) |
