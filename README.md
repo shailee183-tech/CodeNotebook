@@ -99,6 +99,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/shailee183-tech/CodeNotebook/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shailee183-tech/CodeNotebook/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Database
 |  |
