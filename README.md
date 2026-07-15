@@ -35,6 +35,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/shailee183-tech/CodeNotebook/tree/master/0202-happy-number) |
+| [0389-find-the-difference](https://github.com/shailee183-tech/CodeNotebook/tree/master/0389-find-the-difference) |
 | [1189-maximum-number-of-balloons](https://github.com/shailee183-tech/CodeNotebook/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/shailee183-tech/CodeNotebook/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shailee183-tech/CodeNotebook/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -45,6 +46,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 | ------- |
 | [0022-generate-parentheses](https://github.com/shailee183-tech/CodeNotebook/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/shailee183-tech/CodeNotebook/tree/master/0151-reverse-words-in-a-string) |
+| [0389-find-the-difference](https://github.com/shailee183-tech/CodeNotebook/tree/master/0389-find-the-difference) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shailee183-tech/CodeNotebook/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/shailee183-tech/CodeNotebook/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/shailee183-tech/CodeNotebook/tree/master/1189-maximum-number-of-balloons) |
@@ -113,6 +115,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/shailee183-tech/CodeNotebook/tree/master/0389-find-the-difference) |
 | [1288-remove-covered-intervals](https://github.com/shailee183-tech/CodeNotebook/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/shailee183-tech/CodeNotebook/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shailee183-tech/CodeNotebook/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -189,6 +192,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/shailee183-tech/CodeNotebook/tree/master/0389-find-the-difference) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shailee183-tech/CodeNotebook/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
 |  |
