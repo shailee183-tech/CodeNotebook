@@ -174,6 +174,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 | [1025-divisor-game](https://github.com/shailee183-tech/CodeNotebook/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shailee183-tech/CodeNotebook/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shailee183-tech/CodeNotebook/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/shailee183-tech/CodeNotebook/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shailee183-tech/CodeNotebook/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shailee183-tech/CodeNotebook/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Brainteaser
@@ -196,4 +197,5 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shailee183-tech/CodeNotebook/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/shailee183-tech/CodeNotebook/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
