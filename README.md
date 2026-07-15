@@ -15,6 +15,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 | [1288-remove-covered-intervals](https://github.com/shailee183-tech/CodeNotebook/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/shailee183-tech/CodeNotebook/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/shailee183-tech/CodeNotebook/tree/master/1331-rank-transform-of-an-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/shailee183-tech/CodeNotebook/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shailee183-tech/CodeNotebook/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shailee183-tech/CodeNotebook/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shailee183-tech/CodeNotebook/tree/master/2812-find-the-safest-path-in-a-grid) |
