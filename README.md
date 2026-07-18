@@ -54,6 +54,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shailee183-tech/CodeNotebook/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/shailee183-tech/CodeNotebook/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/shailee183-tech/CodeNotebook/tree/master/0389-find-the-difference) |
+| [0443-string-compression](https://github.com/shailee183-tech/CodeNotebook/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shailee183-tech/CodeNotebook/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/shailee183-tech/CodeNotebook/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/shailee183-tech/CodeNotebook/tree/master/1189-maximum-number-of-balloons) |
@@ -73,6 +74,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 | [0151-reverse-words-in-a-string](https://github.com/shailee183-tech/CodeNotebook/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/shailee183-tech/CodeNotebook/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/shailee183-tech/CodeNotebook/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/shailee183-tech/CodeNotebook/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/shailee183-tech/CodeNotebook/tree/master/1768-merge-strings-alternately) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shailee183-tech/CodeNotebook/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shailee183-tech/CodeNotebook/tree/master/3867-sum-of-gcd-of-formed-pairs) |
