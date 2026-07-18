@@ -18,6 +18,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shailee183-tech/CodeNotebook/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shailee183-tech/CodeNotebook/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shailee183-tech/CodeNotebook/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shailee183-tech/CodeNotebook/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shailee183-tech/CodeNotebook/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shailee183-tech/CodeNotebook/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shailee183-tech/CodeNotebook/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -187,6 +188,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 | [0202-happy-number](https://github.com/shailee183-tech/CodeNotebook/tree/master/0202-happy-number) |
 | [1025-divisor-game](https://github.com/shailee183-tech/CodeNotebook/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shailee183-tech/CodeNotebook/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shailee183-tech/CodeNotebook/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shailee183-tech/CodeNotebook/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shailee183-tech/CodeNotebook/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shailee183-tech/CodeNotebook/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -213,6 +215,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shailee183-tech/CodeNotebook/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shailee183-tech/CodeNotebook/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shailee183-tech/CodeNotebook/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shailee183-tech/CodeNotebook/tree/master/3658-gcd-of-odd-and-even-sums) |
