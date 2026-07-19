@@ -6,6 +6,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shailee183-tech/CodeNotebook/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/shailee183-tech/CodeNotebook/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shailee183-tech/CodeNotebook/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/shailee183-tech/CodeNotebook/tree/master/0051-n-queens) |
@@ -71,6 +72,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shailee183-tech/CodeNotebook/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shailee183-tech/CodeNotebook/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/shailee183-tech/CodeNotebook/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/shailee183-tech/CodeNotebook/tree/master/0202-happy-number) |
