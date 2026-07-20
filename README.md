@@ -14,6 +14,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 | [0283-move-zeroes](https://github.com/shailee183-tech/CodeNotebook/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/shailee183-tech/CodeNotebook/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/shailee183-tech/CodeNotebook/tree/master/0605-can-place-flowers) |
+| [1260-shift-2d-grid](https://github.com/shailee183-tech/CodeNotebook/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/shailee183-tech/CodeNotebook/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/shailee183-tech/CodeNotebook/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/shailee183-tech/CodeNotebook/tree/master/1331-rank-transform-of-an-array) |
@@ -169,6 +170,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/shailee183-tech/CodeNotebook/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/shailee183-tech/CodeNotebook/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shailee183-tech/CodeNotebook/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shailee183-tech/CodeNotebook/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -235,6 +237,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/shailee183-tech/CodeNotebook/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shailee183-tech/CodeNotebook/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
