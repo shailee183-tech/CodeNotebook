@@ -15,6 +15,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 | [0283-move-zeroes](https://github.com/shailee183-tech/CodeNotebook/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/shailee183-tech/CodeNotebook/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/shailee183-tech/CodeNotebook/tree/master/0605-can-place-flowers) |
+| [0874-walking-robot-simulation](https://github.com/shailee183-tech/CodeNotebook/tree/master/0874-walking-robot-simulation) |
 | [1260-shift-2d-grid](https://github.com/shailee183-tech/CodeNotebook/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/shailee183-tech/CodeNotebook/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/shailee183-tech/CodeNotebook/tree/master/1301-number-of-paths-with-max-score) |
@@ -44,6 +45,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 | ------- |
 | [0202-happy-number](https://github.com/shailee183-tech/CodeNotebook/tree/master/0202-happy-number) |
 | [0389-find-the-difference](https://github.com/shailee183-tech/CodeNotebook/tree/master/0389-find-the-difference) |
+| [0874-walking-robot-simulation](https://github.com/shailee183-tech/CodeNotebook/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/shailee183-tech/CodeNotebook/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/shailee183-tech/CodeNotebook/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shailee183-tech/CodeNotebook/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -241,6 +243,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 ## Simulation
 |  |
 | ------- |
+| [0874-walking-robot-simulation](https://github.com/shailee183-tech/CodeNotebook/tree/master/0874-walking-robot-simulation) |
 | [1260-shift-2d-grid](https://github.com/shailee183-tech/CodeNotebook/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shailee183-tech/CodeNotebook/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
