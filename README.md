@@ -10,6 +10,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 | [0039-combination-sum](https://github.com/shailee183-tech/CodeNotebook/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shailee183-tech/CodeNotebook/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/shailee183-tech/CodeNotebook/tree/master/0051-n-queens) |
+| [0136-single-number](https://github.com/shailee183-tech/CodeNotebook/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/shailee183-tech/CodeNotebook/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/shailee183-tech/CodeNotebook/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/shailee183-tech/CodeNotebook/tree/master/0334-increasing-triplet-subsequence) |
@@ -218,6 +219,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/shailee183-tech/CodeNotebook/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/shailee183-tech/CodeNotebook/tree/master/0389-find-the-difference) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shailee183-tech/CodeNotebook/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
