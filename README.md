@@ -15,6 +15,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 | [0283-move-zeroes](https://github.com/shailee183-tech/CodeNotebook/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/shailee183-tech/CodeNotebook/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/shailee183-tech/CodeNotebook/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shailee183-tech/CodeNotebook/tree/master/0628-maximum-product-of-three-numbers) |
 | [0874-walking-robot-simulation](https://github.com/shailee183-tech/CodeNotebook/tree/master/0874-walking-robot-simulation) |
 | [1260-shift-2d-grid](https://github.com/shailee183-tech/CodeNotebook/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/shailee183-tech/CodeNotebook/tree/master/1288-remove-covered-intervals) |
@@ -142,6 +143,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/shailee183-tech/CodeNotebook/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shailee183-tech/CodeNotebook/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/shailee183-tech/CodeNotebook/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/shailee183-tech/CodeNotebook/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shailee183-tech/CodeNotebook/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -205,6 +207,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 | [0007-reverse-integer](https://github.com/shailee183-tech/CodeNotebook/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shailee183-tech/CodeNotebook/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/shailee183-tech/CodeNotebook/tree/master/0202-happy-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shailee183-tech/CodeNotebook/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/shailee183-tech/CodeNotebook/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shailee183-tech/CodeNotebook/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shailee183-tech/CodeNotebook/tree/master/1979-find-greatest-common-divisor-of-array) |
