@@ -6,6 +6,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shailee183-tech/CodeNotebook/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shailee183-tech/CodeNotebook/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/shailee183-tech/CodeNotebook/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shailee183-tech/CodeNotebook/tree/master/0040-combination-sum-ii) |
@@ -40,6 +41,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shailee183-tech/CodeNotebook/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/shailee183-tech/CodeNotebook/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/shailee183-tech/CodeNotebook/tree/master/0605-can-place-flowers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shailee183-tech/CodeNotebook/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -82,6 +84,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shailee183-tech/CodeNotebook/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shailee183-tech/CodeNotebook/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shailee183-tech/CodeNotebook/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/shailee183-tech/CodeNotebook/tree/master/0151-reverse-words-in-a-string) |
