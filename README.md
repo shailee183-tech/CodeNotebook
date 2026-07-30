@@ -46,6 +46,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 | [0334-increasing-triplet-subsequence](https://github.com/shailee183-tech/CodeNotebook/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/shailee183-tech/CodeNotebook/tree/master/0605-can-place-flowers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shailee183-tech/CodeNotebook/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shailee183-tech/CodeNotebook/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shailee183-tech/CodeNotebook/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
@@ -76,6 +77,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shailee183-tech/CodeNotebook/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/shailee183-tech/CodeNotebook/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shailee183-tech/CodeNotebook/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shailee183-tech/CodeNotebook/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shailee183-tech/CodeNotebook/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shailee183-tech/CodeNotebook/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shailee183-tech/CodeNotebook/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -226,6 +228,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 | [1025-divisor-game](https://github.com/shailee183-tech/CodeNotebook/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shailee183-tech/CodeNotebook/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shailee183-tech/CodeNotebook/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shailee183-tech/CodeNotebook/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shailee183-tech/CodeNotebook/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shailee183-tech/CodeNotebook/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shailee183-tech/CodeNotebook/tree/master/3513-number-of-unique-xor-triplets-i) |
