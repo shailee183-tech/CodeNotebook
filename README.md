@@ -18,6 +18,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 | [0605-can-place-flowers](https://github.com/shailee183-tech/CodeNotebook/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shailee183-tech/CodeNotebook/tree/master/0628-maximum-product-of-three-numbers) |
 | [0874-walking-robot-simulation](https://github.com/shailee183-tech/CodeNotebook/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/shailee183-tech/CodeNotebook/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/shailee183-tech/CodeNotebook/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/shailee183-tech/CodeNotebook/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/shailee183-tech/CodeNotebook/tree/master/1301-number-of-paths-with-max-score) |
@@ -117,6 +118,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 | ------- |
 | [0022-generate-parentheses](https://github.com/shailee183-tech/CodeNotebook/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/shailee183-tech/CodeNotebook/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/shailee183-tech/CodeNotebook/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/shailee183-tech/CodeNotebook/tree/master/1025-divisor-game) |
 | [1143-longest-common-subsequence](https://github.com/shailee183-tech/CodeNotebook/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/shailee183-tech/CodeNotebook/tree/master/1301-number-of-paths-with-max-score) |
@@ -229,6 +231,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 | [0009-palindrome-number](https://github.com/shailee183-tech/CodeNotebook/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/shailee183-tech/CodeNotebook/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shailee183-tech/CodeNotebook/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/shailee183-tech/CodeNotebook/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/shailee183-tech/CodeNotebook/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shailee183-tech/CodeNotebook/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shailee183-tech/CodeNotebook/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -249,6 +252,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/shailee183-tech/CodeNotebook/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/shailee183-tech/CodeNotebook/tree/master/1025-divisor-game) |
 ## Bit Manipulation
 |  |
