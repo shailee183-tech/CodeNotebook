@@ -39,6 +39,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shailee183-tech/CodeNotebook/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shailee183-tech/CodeNotebook/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/shailee183-tech/CodeNotebook/tree/master/3620-network-recovery-pathways) |
+| [3731-find-missing-elements](https://github.com/shailee183-tech/CodeNotebook/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shailee183-tech/CodeNotebook/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shailee183-tech/CodeNotebook/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -62,6 +63,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 | [1679-max-number-of-k-sum-pairs](https://github.com/shailee183-tech/CodeNotebook/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shailee183-tech/CodeNotebook/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shailee183-tech/CodeNotebook/tree/master/3312-sorted-gcd-pair-queries) |
+| [3731-find-missing-elements](https://github.com/shailee183-tech/CodeNotebook/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shailee183-tech/CodeNotebook/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
@@ -170,6 +172,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shailee183-tech/CodeNotebook/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shailee183-tech/CodeNotebook/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/shailee183-tech/CodeNotebook/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/shailee183-tech/CodeNotebook/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shailee183-tech/CodeNotebook/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
