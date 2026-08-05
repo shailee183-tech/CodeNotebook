@@ -192,6 +192,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 | [2685-count-the-number-of-complete-components](https://github.com/shailee183-tech/CodeNotebook/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shailee183-tech/CodeNotebook/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shailee183-tech/CodeNotebook/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/shailee183-tech/CodeNotebook/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -216,6 +217,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/shailee183-tech/CodeNotebook/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shailee183-tech/CodeNotebook/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/shailee183-tech/CodeNotebook/tree/master/3310-remove-methods-from-project) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shailee183-tech/CodeNotebook/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/shailee183-tech/CodeNotebook/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
@@ -269,6 +271,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/shailee183-tech/CodeNotebook/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/shailee183-tech/CodeNotebook/tree/master/3310-remove-methods-from-project) |
 ## Number Theory
 |  |
 | ------- |
