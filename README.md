@@ -19,6 +19,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 | [0628-maximum-product-of-three-numbers](https://github.com/shailee183-tech/CodeNotebook/tree/master/0628-maximum-product-of-three-numbers) |
 | [0874-walking-robot-simulation](https://github.com/shailee183-tech/CodeNotebook/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/shailee183-tech/CodeNotebook/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/shailee183-tech/CodeNotebook/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/shailee183-tech/CodeNotebook/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/shailee183-tech/CodeNotebook/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/shailee183-tech/CodeNotebook/tree/master/1301-number-of-paths-with-max-score) |
@@ -111,6 +112,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shailee183-tech/CodeNotebook/tree/master/0238-product-of-array-except-self) |
+| [1140-stone-game-ii](https://github.com/shailee183-tech/CodeNotebook/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shailee183-tech/CodeNotebook/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shailee183-tech/CodeNotebook/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shailee183-tech/CodeNotebook/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -122,6 +124,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 | [0392-is-subsequence](https://github.com/shailee183-tech/CodeNotebook/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/shailee183-tech/CodeNotebook/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/shailee183-tech/CodeNotebook/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/shailee183-tech/CodeNotebook/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/shailee183-tech/CodeNotebook/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/shailee183-tech/CodeNotebook/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shailee183-tech/CodeNotebook/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -239,6 +242,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 | [0877-stone-game](https://github.com/shailee183-tech/CodeNotebook/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/shailee183-tech/CodeNotebook/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shailee183-tech/CodeNotebook/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1140-stone-game-ii](https://github.com/shailee183-tech/CodeNotebook/tree/master/1140-stone-game-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shailee183-tech/CodeNotebook/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shailee183-tech/CodeNotebook/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shailee183-tech/CodeNotebook/tree/master/3312-sorted-gcd-pair-queries) |
@@ -259,6 +263,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 | ------- |
 | [0877-stone-game](https://github.com/shailee183-tech/CodeNotebook/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/shailee183-tech/CodeNotebook/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/shailee183-tech/CodeNotebook/tree/master/1140-stone-game-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -298,4 +303,12 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shailee183-tech/CodeNotebook/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/shailee183-tech/CodeNotebook/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/shailee183-tech/CodeNotebook/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
