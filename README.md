@@ -31,6 +31,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shailee183-tech/CodeNotebook/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shailee183-tech/CodeNotebook/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shailee183-tech/CodeNotebook/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shailee183-tech/CodeNotebook/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shailee183-tech/CodeNotebook/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shailee183-tech/CodeNotebook/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shailee183-tech/CodeNotebook/tree/master/3312-sorted-gcd-pair-queries) |
@@ -62,6 +63,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 | [1331-rank-transform-of-an-array](https://github.com/shailee183-tech/CodeNotebook/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shailee183-tech/CodeNotebook/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shailee183-tech/CodeNotebook/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shailee183-tech/CodeNotebook/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shailee183-tech/CodeNotebook/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shailee183-tech/CodeNotebook/tree/master/3312-sorted-gcd-pair-queries) |
 | [3731-find-missing-elements](https://github.com/shailee183-tech/CodeNotebook/tree/master/3731-find-missing-elements) |
@@ -172,6 +174,7 @@ Structured solutions to coding problems with a focus on Data Structures and  Alg
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shailee183-tech/CodeNotebook/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shailee183-tech/CodeNotebook/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shailee183-tech/CodeNotebook/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shailee183-tech/CodeNotebook/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shailee183-tech/CodeNotebook/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shailee183-tech/CodeNotebook/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/shailee183-tech/CodeNotebook/tree/master/3536-maximum-product-of-two-digits) |
